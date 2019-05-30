@@ -1,0 +1,23 @@
+body
+{
+	background-color: #5f5f5f;
+	color: #ffffff;
+	
+}
+a
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.guzik
+{
+	background-color: #4CAF50;
+	border-width: 0px;
+	color: white;
+	padding: 8px 16px;
+}
+.guzik:hover
+{
+	background-color: #3e8e41;
+}
+
