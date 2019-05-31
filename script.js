@@ -33,7 +33,7 @@ var licz = 1;
 function font()
 {
 	var element = document.getElementById('font');
-	if (licz+1==4){licz=0;}
+	if (licz+1==5){licz=0;}
 	licz++;
 	if (licz==1)
 	{
@@ -45,7 +45,11 @@ function font()
 	}
 	if (licz==3)
 	{
-		element.setAttribute('style', "font-family: 'Cinzel', serif;")
+		element.setAttribute('style', "font-family: 'Cinzel', serif;");
+	}
+	if (licz == 4)
+	{
+		element.setAttribute('style', "font-family: 'Pacifico', cursive;");
 	}
 	
 }

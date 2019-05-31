@@ -1,16 +1,17 @@
 body
 {
-	background-color: #C4D7ED;
-	color: #183152;
+	background-color: #F2E4A4;
+	color: #2A2B24;
+	transition-duration: 0.3s;
 }
 a
 {
-	color: #183152;
+	color: #2A2B24;
 	text-decoration: none;
 }
 hr
 {
-	border: 1px solid #183152;
+	border: 1px solid #2A2B24;
 }
 .guzik
 {

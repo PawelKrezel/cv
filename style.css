@@ -74,3 +74,10 @@ button:hover
 		padding-right: 50px;
 	}
 }
+@media only screen and (max-width: 900px;)
+{
+	.dane-osobowe
+	{
+		grid-template-columns: 100%;
+	}
+}
